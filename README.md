@@ -1,6 +1,11 @@
-# git-practice
+# Gitの練習用
 
-Github で変更しました
-鍋谷が更新
+### Overview
 
-リベースの体験
+![Demo](images/720z.gif)
+
+
+## How to install the project
+1. download 00000
+2. 3333
+3. Test
